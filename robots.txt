@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-4m8gil.kujang138.shop/sitemap.xml
